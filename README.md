@@ -5,7 +5,7 @@
 
 The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It is frequently assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript. Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. 
 
-<img src="https://user-images.githubusercontent.com/86287920/220807465-e67c808a-afd4-443e-af6c-9a4bfd418145.png" height=36></a>
+<img src="https://user-images.githubusercontent.com/86287920/220807465-e67c808a-afd4-443e-af6c-9a4bfd418145.png" alt="#" height=36></a>
 
 In this project you can:
  - Login
